@@ -20,7 +20,7 @@ Foi solicitado que criasse uma tela de pedidos e suas implicações nas demais c
 
 # Instructions for use
 
-In the api> src folder, create an .env file according to the env.example file
+In the api > src folder, create an .env file according to the env.example file.
 
 ```
 
