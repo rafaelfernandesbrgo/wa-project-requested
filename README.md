@@ -3,6 +3,9 @@ Project in  React, Node, TypeScript with container and postgres
 
 ***
 
+Project created in React, Node, TypeScript with a container with 2 images (node Api and postgres) interacting with a web application in React.
+
+He was asked to create an order screen and its implications for the other layers.
 
 
 ****
@@ -13,7 +16,9 @@ Projeto criado em React, Node, TypeScript com um container com 2 imagens(node Ap
 
 Foi solicitado que criasse uma tela de pedidos e suas implicações nas demais camadas.
 
-# Instruções de uso
+***
+
+# Instructions for use
 
 ```
 
@@ -30,11 +35,12 @@ Foi solicitado que criasse uma tela de pedidos e suas implicações nas demais c
     yarn start
  
 ```
+
 ***
 
 # Observation
 
-Para reiniciar a api use o comando abaixo ou faça manualmente, mas atenção comando limpa todos os container do pc
+To restart the api use the command below or do it manually, but be careful, the command clears all containers from the pc
 
 ```
 
